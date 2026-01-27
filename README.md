@@ -10,7 +10,7 @@ and improve their food quality. Through this intelligent decision-making tool, w
 to enhance the overall campus dining experience.
 
 ## Try it out
-https://xingchen722.github.io/ByteBites-Orbital/
+https://xingchen722.github.io/Orbital1/
 
 ## Overall Features
 ### Registration Page
