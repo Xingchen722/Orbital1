@@ -9,6 +9,9 @@ help operators receive quicker feedback on their offerings, allowing them to ref
 and improve their food quality. Through this intelligent decision-making tool, we strive
 to enhance the overall campus dining experience.
 
+## Try it out
+https://xingchen722.github.io/ByteBites-Orbital/
+
 ## Overall Features
 ### Registration Page
 1. User Identity Selection: Users can select different identities for
